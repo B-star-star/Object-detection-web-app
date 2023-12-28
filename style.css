@@ -1,0 +1,31 @@
+body{
+    background-image: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 25px;
+width: 39%;
+margin: 0px;
+box-shadow: 5px 5px 5px pink ;
+border-radius: 10px;
+}
+
+.link
+{
+font-size: 18px;
+width:25%;
+}
+
+.link:hover{
+    font-size: 25px;
+}
+
+#back{
+    margin-right: 0px;
+    size: 50px;
+    border-radius: 10px;
+}
+
+
